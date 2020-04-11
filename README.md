@@ -1,8 +1,8 @@
 # i3-gaps-cyberpunk-2020
-!(screenshot1.png)
+![screenshot1](screenshot1.png)
 
 
-!(screenshot2.png)
+![screenshot2](screenshot2.png)
 
 
 Cyberpunk 2020 Dot files
