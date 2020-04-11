@@ -25,10 +25,10 @@ Cyberpunk 2020 Dot files
 **Terminal**: xfce4-terminal
 
 
-If you are here you may seen some screenshots from my reddit or my instagram account
+If you are here you may seen some screenshots from my [reddit](http://reddit.com/u/Kearash) or my [instagram](https://www.instagram.com/kearashy/) account
 I think every thing is clear in screenshots but there is some **Notes:**
 
 
 - The color palette of terminal is visible in "neofetch"
 - Opacity of terminal is 0.75
-- "Code - OSS" and "Discord" is transparent within "compton.conf" file
+- "Code - OSS" and "Discord" is transparent with "compton.conf" file
